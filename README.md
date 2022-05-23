@@ -1,13 +1,13 @@
 # Blog-Post-MEAN-STACK---Advanced
 This is a MEAN Stack Application.
 It implements all the important concepts of Angular and NodeJs which includes:
-	- Pagination
-	- File Handling
-	- Image Upload
-	- Routing
-	- Lazy Loading
-	- Authentication
-	- Authorization
+	- Pagination <br>
+	- File Handling <br>
+	- Image Upload <br>
+	- Routing <br>
+	- Lazy Loading <br>
+	- Authentication <br>
+	- Authorization <br>
 
 Using this application a user can sign up for the blog, login to the blog and create, edit, delete and read its blog posts. A typical blog post contains a Title, Image and Content.
 
