@@ -1,6 +1,6 @@
 # Blog-Post-MEAN-STACK---Advanced
 This is a MEAN Stack Application.
-It implements all the important concepts of Angular and NodeJs which includes:
+It implements all the important concepts of Angular and NodeJs which includes:<br>
 	- Pagination <br>
 	- File Handling <br>
 	- Image Upload <br>
