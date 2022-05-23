@@ -5,6 +5,7 @@ It implements all the important concepts of Angular and NodeJs which includes:<b
 	- File Handling <br>
 	- Image Upload <br>
 	- Routing <br>
+	- Angular Guard And Interceptor <br>
 	- Lazy Loading <br>
 	- Authentication <br>
 	- Authorization <br>
